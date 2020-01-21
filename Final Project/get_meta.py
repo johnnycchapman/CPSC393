@@ -17,12 +17,17 @@
 # print(labeled)
 
 import dropbox
-client = dropbox.Dropbox('Ci8e3duLF4AAAAAAAAAAFoK1urCLRrEKR-1CCbyHzBbPEOVXrh1Voj2Zl17jCH_5')
+# import json
+
+client = dropbox.Dropbox('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
 # print(client.users_get_current_account())
 metadata = client.files_list_folder('/All onboard images').entries
-print(metadata)
+# metadata = metadata.json()
+#print(metadata)
+for i in metadata:
+     print(metadata[0])
 
-flist = []
+# flist = []
 # if metadata.has_more == True:
     # m1 = metadata.entries
     # cur = metadata.cursor
