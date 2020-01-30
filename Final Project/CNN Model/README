@@ -1,0 +1,11 @@
+This is the file readme to run the CNN and VGG model. What I was able to do was predict the astronaut that was shown in the image with a relatively decent accuracy. I had want to post the images in this file but there were too many photos. I have provided the link to the dropbox that is needed to download these images below. Just download the astronaut files. In some of the astronaut folders there are some images that aren't actually of any astronauts so you will have to go through all the photos and delete them. 
+
+Here is the full repo of downloaded images:
+
+https://www.dropbox.com/sh/sckc20ip892ovc9/AAAy_PZ-PoBwWEPQKAE55_ANa?dl=0
+
+
+
+Here are images organized into various folders:
+
+https://www.dropbox.com/sh/77jdc0r619zfvnk/AADdhFTNxz51JAQ46ZvaB4fra?dl=0
